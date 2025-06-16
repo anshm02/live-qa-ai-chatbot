@@ -25,5 +25,5 @@ This is the backend implementation of a real-time question-answering (QA) chatbo
 git clone https://github.com/anshm02/live-qa-ai-chatbot.git
 cd live-qa-ai-chatbot
 python -m venv venv
-source venv/bin/activate  # on Windows: venv\Scripts\activate
+source venv/bin/activate  
 pip install -r requirements.txt
